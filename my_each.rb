@@ -5,7 +5,7 @@ def my_each(array)
     yield(array[i])
     i += 1
   end
-  array
+  return array
 end
 
 # The "while" method will always return a value of => nil"
