@@ -8,12 +8,6 @@ def my_each(array)
   array
 end
 
-  #   puts "#{i}"
-  # end
-#   puts "#{i}"
-# end
-
-
 # The "while" method will always return a value of => nil"
 
 
